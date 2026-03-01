@@ -27,42 +27,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🤖 AI / ML
-- CNN, Vision Transformers (ViT)
-- CLIP Models
-- RAG Architecture
-- Vector Databases
-- NLP & LLM Applications
-
----
-
-## 🔥 Featured Projects
-
-### 🛒 GreenCart – Smart Agriculture Platform
-- Demand prediction using ML models
-- Consumer marketplace for fruits & vegetables
-- AI-based consumption forecasting
-
----
-
-### 🧠 Hybrid AI Image Detection
-- CNN + CLIP + ViT framework
-- Detects AI-generated images
-- IEEE Research Paper Implementation
-
----
-
-### 🎬 AI Video Summarizer
-- Downloads & transcribes videos
-- NLP-based important segment detection
-- Auto-generated highlight reels using FFmpeg
-
----
-
-### 🏥 Healthcare Diagnosis Chatbot
-- Symptom extraction
-- ML disease prediction
-- RAG-based medical explanation system
 
 ---
 
@@ -86,8 +50,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: add-your-link-here
+- 📧 Email: masupallikushwanth2005@gmail.com
+- 💼 LinkedIn: [add-your-link-here](https://www.linkedin.com/in/kushwanth-masupalli-4363b9335/)
 
 ---
 
