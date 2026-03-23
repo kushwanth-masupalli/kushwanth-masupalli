@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Backend Developer focused on **Node.js & System Design**
+- 💻 Backend Developer focused on **Springboot , Node.js & System Design**
 - 🤖 Building AI/ML applications in **Healthcare & Computer Vision**
 - 🧠 Solved **380+ DSA problems** on LeetCode
 - 📊 Interested in **Scalable Backend Systems & Intelligent Applications**
