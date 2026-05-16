@@ -1,4 +1,4 @@
-<img width="951" height="30" alt="image" src="https://github.com/user-attachments/assets/78682f87-c9bc-45c5-95d5-14ca20966990" /><img width="951" height="30" alt="image" src="https://github.com/user-attachments/assets/26bce226-44ca-41bf-86ea-f16f619b9d45" /><h1 align="center">Hi 👋, I'm Kushwanth Masupalli</h1>
+<h1 align="center">Hi 👋, I'm Kushwanth Masupalli</h1>
 <h3 align="center">Backend Developer | AI/ML Enthusiast | Problem Solver</h3>
 
 ---
@@ -42,10 +42,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kushwanth-masupalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kushwanth-masupalli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushwanth-masupalli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
@@ -60,11 +56,6 @@
 ## 📫 Connect With Me
 - 📧 Email: masupallikushwanth2005@gmail.com
 - 💼 LinkedIn: [kushwanth](https://www.linkedin.com/in/kushwanth-masupalli-4363b9335/)
-
----
-
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=kushwanth-masupalli&color=blue)
 
 ---
 
