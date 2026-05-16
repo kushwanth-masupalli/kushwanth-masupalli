@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kushwanth Masupalli</h1>
+<img width="951" height="30" alt="image" src="https://github.com/user-attachments/assets/78682f87-c9bc-45c5-95d5-14ca20966990" /><img width="951" height="30" alt="image" src="https://github.com/user-attachments/assets/26bce226-44ca-41bf-86ea-f16f619b9d45" /><h1 align="center">Hi 👋, I'm Kushwanth Masupalli</h1>
 <h3 align="center">Backend Developer | AI/ML Enthusiast | Problem Solver</h3>
 
 ---
@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 💻 Backend Developer focused on **Springboot , Node.js & System Design**
 - 🤖 Building AI/ML applications in **Healthcare & Computer Vision**
-- 🧠 Solved **380+ DSA problems** on LeetCode
+- 🧠 Solved **500+ DSA problems** on LeetCode
 - 📊 Interested in **Scalable Backend Systems & Intelligent Applications**
 - 🌱 Currently preparing for **MNC Internships**
 - ⚡ Motto: *Build real-world impactful systems*
@@ -59,7 +59,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: masupallikushwanth2005@gmail.com
-- 💼 LinkedIn: [add-your-link-here](https://www.linkedin.com/in/kushwanth-masupalli-4363b9335/)
+- 💼 LinkedIn: [kushwanth](https://www.linkedin.com/in/kushwanth-masupalli-4363b9335/)
 
 ---
 
